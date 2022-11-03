@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e26bc0a5-c23f-4773-aedd-b7ff1f8b0759" name="SCC Web Server" url="http://abreshamer.scweb.ca ">
+        <fileTransfer rootFolder="/home/abreshamer" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="b14270f7-9aed-4bc2-b7ad-2c137f391c27" sshConfig="abreshamer@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
